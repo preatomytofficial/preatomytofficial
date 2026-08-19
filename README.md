@@ -8,7 +8,7 @@ I am a passionate Digital Content Creator & Educator focused on helping people n
 <a href="https://linkedin.com/in/preatomyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preatomyt" height="30" width="40" /></a>
 <a href="https://fb.com/preatomyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="preatomyt" height="30" width="40" /></a>
 <a href="https://instagram.com/preatomyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preatomyt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/preatomytofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="preatomytofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/preatomytofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="preatomytofficial" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
